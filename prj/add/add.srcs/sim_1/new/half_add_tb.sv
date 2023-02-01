@@ -30,6 +30,7 @@ module half_add_tb;
         .sum(sum),
         .cout(cout)
     );
+    
     initial begin
         a = 1; b = 0;
         #20ns

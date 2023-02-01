@@ -11,12 +11,13 @@
 # //  is prohibited from disclosure under the Trade Secrets Act,
 # //  18 U.S.C. Section 1905.
 # //
-# do {half_add_tb_simulate.do}
-# vsim -voptargs=""+acc"" -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -lib xil_defaultlib xil_defaultlib.half_add_tb xil_defaultlib.glbl 
-# Start time: 22:34:24 on Jan 31,2023
+# do {full_add_tb_simulate.do}
+# vsim -voptargs=""+acc"" -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -lib xil_defaultlib xil_defaultlib.full_add_tb xil_defaultlib.glbl 
+# Start time: 11:17:43 on Feb 01,2023
 # ** Note: (vsim-3812) Design is being optimized...
 # Loading sv_std.std
-# Loading work.half_add_tb(fast)
+# Loading work.full_add_tb(fast)
+# Loading work.full_add(fast)
 # Loading work.half_add(fast)
 # Loading work.glbl(fast)
 # 1
@@ -24,5 +25,3 @@
 # .main_pane.wave.interior.cs.body.pw.wf
 # .main_pane.structure.interior.cs.body.struct
 # .main_pane.objects.interior.cs.body.tree
-# End time: 22:35:09 on Jan 31,2023, Elapsed time: 0:00:45
-# Errors: 0, Warnings: 0
