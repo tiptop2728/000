@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "25762fd9b9bc40c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8541ea6f31836638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8094e04ce9c9d179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "加法器及其扩展.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a91a1de3b4aa4eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "加法器及其扩展.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54e1767135fa0f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd4c0b0f37c4f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24db24538e3cbd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c59f41744ff59761",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7388c5933020bef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "157726f726d8cf8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0055b286df13bbf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1dc6bafd7d4de6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "加法器及其扩展.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d74f1e120d658fa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "加法器及其扩展.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e8624b47c9bf80d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc532008094d2230",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "加法器及其扩展.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bc532008094d2230",
+  "lastOpenFiles": [
+    "未命名.md",
+    "加法器及其扩展.md",
+    "images/Pasted image 20230122204007.png",
+    "Pasted image 20230122203756.png"
+  ]
+}
