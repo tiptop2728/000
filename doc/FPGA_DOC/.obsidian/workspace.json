@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8541ea6f31836638",
+        "id": "0a8bd6bb96c462ab",
         "type": "tabs",
         "children": [
           {
-            "id": "8094e04ce9c9d179",
+            "id": "f46726e2d0ba7d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01加法器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a91a1de3b4aa4eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01加法器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3896b90e6b394839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02计数器及复位.md",
+                "file": "01 基础案例.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02计数器及复位.md",
+                "file": "01 基础案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02计数器及复位.md",
+                "file": "01 基础案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02计数器及复位.md"
+                "file": "01 基础案例.md"
               }
             }
           }
@@ -171,12 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3896b90e6b394839",
+  "active": "f46726e2d0ba7d8e",
   "lastOpenFiles": [
-    "01加法器.md",
-    "02计数器及复位.md",
-    "00总结归纳.md",
-    "images/Pasted image 20230122204007.png",
-    "Pasted image 20230122203756.png"
+    "00 总结归纳.md",
+    "11 科学计算.md",
+    "10 图像.md",
+    "09 CPU.md",
+    "08 通信编码.md",
+    "100 断言.md",
+    "07 代码块.md",
+    "03 IP核.md",
+    "02 编码.md",
+    "06 流传输.md"
   ]
 }
